@@ -5,8 +5,8 @@ class Navbar extends React.Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#">
-            Saumya Jewellers
+          <a className="navbar-brand" href="/">
+            Aman Cart
           </a>
         </div>
       </nav>

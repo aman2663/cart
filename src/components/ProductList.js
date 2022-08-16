@@ -1,7 +1,7 @@
 import React from "react";
 import Product from "./Product.js";
 
-export default function (props) {
+export default function product(props) {
   return(props.productList.length>0?
   props.productList.map((product, ind) => {
     return (
