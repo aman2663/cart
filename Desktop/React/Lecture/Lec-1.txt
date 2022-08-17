@@ -1,0 +1,11 @@
+1.npx create-react-app project_name//to make project
+2.npm start
+3.in src folder we do all coding
+
+Binding event handler
+
+pass Data
+Raise and Handle Events
+Multiple Components in Sync
+Functional components
+Lifecycle Hooks

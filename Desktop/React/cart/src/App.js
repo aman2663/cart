@@ -45,9 +45,9 @@ function App() {
 
   const resetQuantity = () => {
     let newProductList = [...productList];
-    newProductList.map((products) => {
-      products.quantity = 0;
-    });
+    newProductList.map((products) =>(
+      products.quantity = 0
+    ));
     setProductList(newProductList);
     setTotalAmount(0);
   };
